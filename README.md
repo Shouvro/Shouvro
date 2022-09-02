@@ -25,6 +25,15 @@
 
 - ⚡ Fun fact **I am from non CSE**
 
+# Codeforces Stat Visualization
+
+
+![](https://raw.githubusercontent.com/Shouvro/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/Shouvro/cf-stats/main/output/rating.svg)
+
+![](https://raw.githubusercontent.com/Shouvro/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Shouvro/cf-stats/main/output/light_card.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shouvro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shouvro_" height="30" width="40" /></a>
